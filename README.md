@@ -20,11 +20,16 @@ code
 
 cd project Name 
 
+Install virtual environment
+
+code
+pip install virtualenv
+
 Create a virtual environment (optional but recommended): 
 
 code 
 
-python -m venv venv 
+virtualrnv venv 
  
 
 Activate the virtual environment (skip this step if you didn't create a virtual environment): 
